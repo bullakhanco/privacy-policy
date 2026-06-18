@@ -20,5 +20,10 @@ Our game is safe for all ages. We do not knowingly collect any data from childre
 We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.
 
 7. Contact Us
-If you have any questions about this Privacy Policy, please contact us at:
-Email: [bullakhanllc@gmail.com]
+If you have any questions or suggestions about our Privacy Policy, please feel free to contact us:
+
+Developer: Hasibul Khan
+
+Email: info@hasibulstudio.com
+
+Website: https://hasibulstudio.com
